@@ -49,7 +49,12 @@ By combining multiple weather metrics into one easy-to-read interface, it offers
 * **Filters & Slicers:** Ability to filter by specific days or conditions.
 
 ---
+📸 Dashboard Preview
 
+
+Example visualization of the Weather Forecasting Dashboard
+
+---
 ## 🔄 Data Flow
 
 1. **Data Collection:** Weather data fetched from public APIs or CSV datasets.
