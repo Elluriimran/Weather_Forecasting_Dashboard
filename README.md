@@ -82,5 +82,7 @@ By combining multiple weather metrics into one easy-to-read interface, it offers
 Released under the **MIT License** — free to use, modify, and share with attribution.
 
 ---
+📧 Contact
+Created by Elluri Imran
+For queries or collaborations, reach out via GitHub Issues.
 
-If you want, I can now also **add a "Use Case Examples" section** so your GitHub visitors instantly see where this dashboard can be applied. That would make it even more appealing. Would you like me to prepare that?
