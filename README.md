@@ -40,6 +40,10 @@ By combining multiple weather metrics into one easy-to-read interface, it offers
 
 ---
 
+## 🎯Preview
+
+---
+
 ## 🖼 Dashboard Layout & Features
 
 * **Top Panel:** Current date, week overview, and location.
