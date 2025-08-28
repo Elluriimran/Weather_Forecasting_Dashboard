@@ -40,7 +40,7 @@ By combining multiple weather metrics into one easy-to-read interface, it offers
 
 ---
 
-## 🎯PrevieW
+## 🎯Preview
 
 ![PowerBI Dashboards](Weather_Dashboard.jpg)
 
